@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+那个抑郁症女孩
 
-You can use the [editor on GitHub](https://github.com/samotutu/ergou.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/102856873/161382537-8fdfa72b-3634-436e-8923-e86babde0128.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+T，急诊来了个抑郁症女孩跳楼的，全身多发骨折，你去急诊看看有什么要帮忙。”
 
-### Markdown
+刚下手术，椅子还没坐热，又急匆匆的往急诊抢救大厅赶。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+进急诊门，看见一对中年夫妻坐在外科门外的长椅上。男的脸色铁青，女的应该是刚哭完没多久，眼睛明显红肿，男的紧紧的抓着女的手，两人眼神都很呆滞。
 
-```markdown
-Syntax highlighted code block
+走进抢救室，看到了那个女孩，大概20来岁出头，五官精致，她静静的躺在病床上，表情很平静，眼神很涣散，没有病人该有的痛苦和焦虑，对周围的陌生的面孔和环境也没有丝毫的不适。
 
-# Header 1
-## Header 2
-### Header 3
+我试着想让她开口。
 
-- Bulleted
-- List
+试探性的问到：“你叫什么名字啊？你知道你现在在哪里吗？”
 
-1. Numbered
-2. List
+她没有回应我，呆呆的望着远处的墙顶。
 
-**Bold** and _Italic_ and `Code` text
+“你是在上学还是已经工作了？”
 
-[Link](url) and ![Image](src)
-```
+依然没有回应，也没有表情的变化，好像入了梦境一样。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+“你还这么年轻，有什么想不开的，要选择跳楼呢？”
 
-### Jekyll Themes
+她好像突然梦醒一般，直勾勾的盯着我。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samotutu/ergou.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+“我只想死！”
 
-### Support or Contact
+突然的一句话让我不知道该怎么接下去。迟钝了好一会儿。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+我接着说到“我猜你家应该也只有你一个孩子吧，你如果这么死了，你爸妈该有多么伤心，以后还有什么指望啊”
+
+“既然你这次从那么高跳下来都没有离开这个世界，那就好好配合我们的治疗，以后好好活下去，不为自己，也为你爸妈，好吗？”
+
+她又开启禁言模式，只有在给她固定夹板的时候，因为疼痛，表情略显痛苦。
+
+后来检查结果出来了，一边的锁骨和肱骨骨折，一边的股骨多段骨折，好在头部和重要的脏器没有大碍。
+
+和她父母交代了病情后，办理了住院，嘱咐她父母不要去责怪她，多去鼓励她，大家一起努力，看看能不能让她经历这次生死之后有所改变。
+
+后面陆续做了两次手术，为了以后手术疤痕能小点，能微创的都做的微创，缝皮都做美容缝合，骨折固定也做的很漂亮。
+
+手术后康复的日子，医生、护士和她爸妈都格外的去关心她，她的老师和同学也络绎不绝的来看望她。渐渐的，她偶尔脸上会有笑容，我们查房的时候也会主动和我们说上几句话。她父母的脸上也终于有了笑容，眼里有了光。
+
+出院快大半年的时候，再次接到她妈的电话，不是我预想的预约复查时间。电话那头，她妈妈很着急，说：“她今天康复锻炼时，不小心摔了一跤，痛的厉害，可能又把骨头摔断了，我们能现在过来拍片看看吗？”
+
+“那赶紧来吧，你们自己不会弄，可以叫个120，我在急诊室等你们。”
+
+果不其然，拍完片子，大腿原来骨折的地方又摔断了，钢板也断了。
+
+这次再见她，感觉她性情改变了很多，脸上有了微表情，看得出焦虑和自责。
+
+后来不得不再开一刀，进手术室前还一直跟我说“要把伤口缝的和上次一样好看，这样以后夏天还能穿裙子。”
+
+顺利手术后住了几天就出院了。期间来复查过很多次，骨折的部位长的不错。最有印象的一次，是渐入夏天的季节，是她一个人独自来复诊的。那次她穿了裙子过来的，膝盖侧上方的疤还能隐约的看到。
+
+也许经历了那次生死之后，让她慢慢对这个世界有了新的认识。原来那个灰暗的世界开始慢慢有了色彩。
+
+我国目前抑郁症患者约1亿左右，让人触目惊心的数字。而且抑郁症患者的年龄也也在逐渐向低龄化发展。但目前大众对抑郁症这种疾病的认知还极为不足，甚至从内心不愿去接受它的存在，从而不去重视它。因此近几年青少年自杀事件也屡见不鲜。
+
+有阴霾地方阳光总会照到。正确的认知它，勇敢的去面对它，规律自己的生活，接受正确的治疗，接纳自己，接纳他人，融入到这个充满色彩的世界中去。
+
+![image](https://user-images.githubusercontent.com/102856873/161382571-9dc04974-7dbf-4c31-8279-645774512033.png)
