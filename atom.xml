@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samotutu.github.io/ergou.github.io/</id>
+    <id>https://youngyoung.top</id>
     <title>萨摩和二狗的中老年生活</title>
-    <updated>2022-04-02T16:37:18.653Z</updated>
+    <updated>2022-04-03T09:46:22.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://samotutu.github.io/ergou.github.io/"/>
-    <link rel="self" href="https://samotutu.github.io/ergou.github.io/atom.xml"/>
+    <link rel="alternate" href="https://youngyoung.top"/>
+    <link rel="self" href="https://youngyoung.top/atom.xml"/>
     <subtitle>走过来时的路</subtitle>
-    <logo>https://samotutu.github.io/ergou.github.io/images/avatar.png</logo>
-    <icon>https://samotutu.github.io/ergou.github.io/favicon.ico</icon>
+    <logo>https://youngyoung.top/images/avatar.png</logo>
+    <icon>https://youngyoung.top/favicon.ico</icon>
     <rights>All rights reserved 2022, 萨摩和二狗的中老年生活</rights>
     <entry>
         <title type="html"><![CDATA[ 四月，你好]]></title>
-        <id>https://samotutu.github.io/ergou.github.io/post/四月，你好/</id>
-        <link href="https://samotutu.github.io/ergou.github.io/post/四月，你好/">
+        <id>https://youngyoung.top/post/四月，你好/</id>
+        <link href="https://youngyoung.top/post/四月，你好/">
         </link>
         <updated>2022-04-02T16:00:00.000Z</updated>
     </entry>
