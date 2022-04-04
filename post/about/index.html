@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>关于 | 萨摩和二狗的中老年生活</title>
-<link rel="shortcut icon" href="https://youngyoung.top/favicon.ico?v=1649072466963">
+<link rel="shortcut icon" href="https://youngyoung.top/favicon.ico?v=1649073406609">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://youngyoung.top/styles/main.css">
 <link rel="alternate" type="application/atom+xml" title="关于 | 萨摩和二狗的中老年生活 - Atom Feed" href="https://youngyoung.top/atom.xml">
@@ -28,7 +28,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://youngyoung.top">
-  <img class="avatar" src="https://youngyoung.top/images/avatar.png?v=1649072466963" alt="">
+  <img class="avatar" src="https://youngyoung.top/images/avatar.png?v=1649073406609" alt="">
   </a>
   <h1 class="site-title">
     萨摩和二狗的中老年生活
@@ -133,47 +133,15 @@
 </div>
 
       </div>
-    </div>
+    </div><script src="https://utteranc.es/client.js"
+        repo="samotutu/ergou.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
-    <script>
-      hljs.initHighlightingOnLoad()
-
-      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
-
-      // This should probably be throttled.
-      // Especially because it triggers during smooth scrolling.
-      // https://lodash.com/docs/4.17.10#throttle
-      // You could do like...
-      // window.addEventListener("scroll", () => {
-      //    _.throttle(doThatStuff, 100);
-      // });
-      // Only not doing it here to keep this Pen dependency-free.
-
-      window.addEventListener("scroll", event => {
-        let fromTop = window.scrollY;
-
-        mainNavLinks.forEach((link, index) => {
-          let section = document.getElementById(decodeURI(link.hash).substring(1));
-          let nextSection = null
-          if (mainNavLinks[index + 1]) {
-            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-          }
-          if (section.offsetTop <= fromTop) {
-            if (nextSection) {
-              if (nextSection.offsetTop > fromTop) {
-                link.classList.add("current");
-              } else {
-                link.classList.remove("current");    
-              }
-            } else {
-              link.classList.add("current");
-            }
-          } else {
-            link.classList.remove("current");
-          }
-        });
-      });
-
+    
     </script>
   </body>
 </html>
